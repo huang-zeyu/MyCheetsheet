@@ -8,7 +8,7 @@ $$
 - 逻辑符号: $\forall, \exists, \nexists, \therefore, \because, \And$
 - 导数: $ x' x^\prime$
 - 大符号: $\sum, \prod, \lim, \bigcap, \bigcup$
-- 分数: $\dbinom{n}{m}, \tbinom{n}{m}, \binom{n}{m}$
+- 分数和矩阵: $\dbinom{n}{m}, \tbinom{n}{m}, \binom{n}{m}, \begin{bmatrix}x&x^2\\x^3&x^4\end{bmatrix}$
 - 大写希腊字母: 
 	$A B\Gamma\Delta EZH\Theta$
 	$IK\Lambda MN\Xi O\Pi$
